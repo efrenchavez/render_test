@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "render_test",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
